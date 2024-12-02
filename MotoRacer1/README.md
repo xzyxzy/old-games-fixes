@@ -17,3 +17,4 @@ Based on GOG executable.
 
 -- xzy
 ```
+![image](https://github.com/user-attachments/assets/e67ba183-0cb7-4b11-88bc-36e76f85f03b)
